@@ -1,5 +1,7 @@
 ![dotfiles](https://github.com/louh/dotfiles/raw/main/dotfiles.png)
 
+**hi.** if you are not me, this notice is to let you know this is very WIP. i am still learning how to linux and spent most of that time making this logo. [here is the deep dive on dotfiles](https://github.com/webpro/awesome-dotfiles).
+
 ## guidance
 
 this repository should be cloned or symlinked to `~/.dotfiles`. for instance i clone it to where i normally put my repos and then symlink it:
