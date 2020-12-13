@@ -1,4 +1,4 @@
-# dotfiles
+![dotfiles](https://github.com/louh/dotfiles/raw/main/dotfiles.png)
 
 this repository should be cloned or symlinked to `~/.dotfiles`. for instance i clone it to where i normally put my repos and then symlink it:
 
@@ -27,3 +27,7 @@ supplementary things
 ```sh
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ```
+
+## progenitors
+
+- logo: [Scott Albrecht](http://scottalbrecht.com/)
