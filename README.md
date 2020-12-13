@@ -28,8 +28,11 @@ ln -s ~/.dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
 
 ### copy paste this
 
+note: remove old configs before linking
+
 ```sh
 ln -s ~/.dotfiles/gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/neofetch/config.conf ~/.config/neofetch
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ```
 
