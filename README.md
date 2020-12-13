@@ -17,19 +17,22 @@ for example:
 ln -s ~/.dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
 ```
 
-TODO: install script that auto symlinks to expected locations
+**TODO:** install script that auto symlinks to expected locations
 
-some goals
+### some goals
 - make it easy to bootstrap a new install of linux
 - sync between macos and linux machines
 
-supplementary things
+### supplementary things
 - some things are not in here. like fonts and wallpaper. but are shared between systems nonetheless. for those see the `/Dropbox/System/` directory which is a folder i have but you won't
 
+### copy paste this
+
 ```sh
+ln -s ~/.dotfiles/gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ```
 
 ## progenitors
 
-- logo: [Scott Albrecht](http://scottalbrecht.com/)
+- logo: [Scott Albrecht](http://scottalbrecht.com/) + [LEGO DOTS](https://www.lego.com/en-us/themes/dots/products)
