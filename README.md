@@ -1,5 +1,7 @@
 ![dotfiles](https://github.com/louh/dotfiles/raw/main/dotfiles.png)
 
+## guidance
+
 this repository should be cloned or symlinked to `~/.dotfiles`. for instance i clone it to where i normally put my repos and then symlink it:
 
 ```sh
