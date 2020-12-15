@@ -1,6 +1,6 @@
 ![dotfiles](https://github.com/louh/dotfiles/raw/main/dotfiles.png)
 
-**hi.** if you are not me, this notice is to let you know this is very WIP. i am still learning how to linux and spent most of that time making this logo. [here is the deep dive on dotfiles](https://github.com/webpro/awesome-dotfiles).
+**hi.** if you are not me, this notice is to let you know this is very WIP. i am still learning how to linux and spent most of that time making this logo. [here is the deep dive on dotfiles](https://dotfiles.github.io/).
 
 ## guidance
 
@@ -34,6 +34,8 @@ note: remove old configs before linking
 
 ```sh
 ln -s ~/.dotfiles/gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/profile ~/.profile
+ln -s ~/.dotfiles/zshenv ~/.zshenv
 ln -s ~/.dotfiles/neofetch/config.conf ~/.config/neofetch
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ```
