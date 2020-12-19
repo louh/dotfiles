@@ -44,3 +44,6 @@ ln -s ~/.dotfiles/vimrc ~/.vimrc
 ## progenitors
 
 - logo: [Scott Albrecht](http://scottalbrecht.com/) + [LEGO DOTS](https://www.lego.com/en-us/themes/dots/products)
+- referential dots
+  - [Paul Irish](https://github.com/paulirish/dotfiles)
+  - [Victoria Drake](https://github.com/victoriadrake/dotfiles)
