@@ -37,6 +37,7 @@ ln -s ~/.dotfiles/gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/profile ~/.profile
 ln -s ~/.dotfiles/zshenv ~/.zshenv
 ln -s ~/.dotfiles/neofetch/config.conf ~/.config/neofetch
+ln -s ~/.dotfiles/albert/albert.conf ~/.config/albert
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ```
 
