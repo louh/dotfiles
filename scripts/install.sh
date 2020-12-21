@@ -23,6 +23,7 @@ install zsh
 
 # Powertools
 install albert # todo: skip for mac; link config
+install htop
 install neofetch
 
 # Apps
