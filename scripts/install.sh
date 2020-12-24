@@ -25,6 +25,7 @@ install zsh
 install htop
 install neofetch
 install rofi # todo: skip for mac; link config
+install sxhkd
 
 # Apps
 # ...e.g. blender
