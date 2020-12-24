@@ -22,9 +22,9 @@ install wget
 install zsh
 
 # Powertools
-install albert # todo: skip for mac; link config
 install htop
 install neofetch
+install rofi # todo: skip for mac; link config
 
 # Apps
 # ...e.g. blender
