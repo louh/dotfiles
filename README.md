@@ -38,6 +38,7 @@ ln -s ~/.dotfiles/profile ~/.profile
 ln -s ~/.dotfiles/xprofile ~/.xprofile
 ln -s ~/.dotfiles/vimrc ~/.vimrc
 ln -s ~/.dotfiles/zshenv ~/.zshenv
+ln -s ~/.dotfiles/zshrc ~/.zshrc
 ln -s ~/.dotfiles/neofetch/config.conf ~/.config/neofetch
 ln -s ~/.dotfiles/rofi/config.rasi ~/.config/rofi/config.rasi
 ln -s ~/.dotfiles/rofi/theme.rasi ~/.config/rofi/theme.rasi
