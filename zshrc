@@ -126,4 +126,6 @@ load-nvmrc() {
 }
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
+
+# Initialize pyenv
 eval "$(pyenv init -)"
